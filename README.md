@@ -1,3 +1,3 @@
-Software engineering graduate based in Istanbul. Currently exploring backend systems and automation through hands-on projects.
+Software engineering graduate based in Istanbul, interested in SaaS, automation, and digital growth. Building projects and developing my skills along the way.
 
-[Portfolio](https://amrostudio.co) · [LinkedIn](https://www.linkedin.com/in/amrdwedari/)
+[Website](https://amrostudio.co) · [Portfolio](https://heyamro.com) · [LinkedIn](https://www.linkedin.com/in/amrdwedari/)
