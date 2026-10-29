@@ -1,5 +1,3 @@
-## Hi, I'm Amro
-
-Software engineering graduate based in Istanbul. Building web projects and learning more about backend development and automation.
+Software engineering graduate based in Istanbul. Currently exploring backend systems and automation through hands-on projects.
 
 [Portfolio](https://amrostudio.co) · [LinkedIn](https://www.linkedin.com/in/amrdwedari/)
