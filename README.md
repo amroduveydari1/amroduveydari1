@@ -1,4 +1,4 @@
-## Hey, I’m Amro 👋
+## Hi, I’m Amro 👋
 
 Software Engineer based in Istanbul. I build digital products and automation tools, with an interest in SaaS and solving business problems through software.
 
